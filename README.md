@@ -21,7 +21,9 @@ I don't mind if you edit the copyright text on the bottom and take my name out, 
 
 (How the sausage is made)
 
-The font that T-Rex, Dromiceiomimus, Utahraptor, etc. speak in is Lucida Console Semi-Condensed, 13pt, no anti-aliasing, with the line spacing 1 pixel closer than the default. I haven't figured out the font for **THE NARRATOR, GOD AND THE DEVIL**, *the raccoons and cephalopods*, or Morris the Bug yet. I'll ask Ryan when I get the chance.
+The font that T-Rex, Dromiceiomimus, Utahraptor, etc. speak in is included as a tool preset. **GOD AND THE DEVIL** use the God font, but superimposed on itself 1 pixel to the right. (Duplicate the layer, move it one pixel to the right, then merge the layers.) I haven't figured out the font for *the raccoons and cephalopods* or Morris the Bug yet. I'll ask Ryan when I get the chance.
+
+To load the fonts as tool presets, go to Preferences > Folders > Tool Presets and add the qwantzKit folder.
 
 I haven't found the exact way to replicate the dialogue lines (the lines pointing from the speaker to the text) in GIMP. It's not exactly a 1-size line, but not exactly a 2-size line. The best way seems to be to draw a 1-pixel line, then another adjacent to it.
 
