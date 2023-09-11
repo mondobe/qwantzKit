@@ -29,7 +29,7 @@ I haven't found the exact way to replicate the dialogue lines (the lines pointin
 
 ## Has Mr. North himself seen this?
 
-Not yet.
+He has! In his words, it is "AMAZING. Perfection itself! I LOVE IT. You friggin' nailed it!! :)". After that reaction, I will reciprocate the :).
 
 ## Credits
 
